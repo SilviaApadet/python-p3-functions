@@ -6,7 +6,6 @@ from functions import greet_programmer, greet, greet_with_default, \
 import io
 import sys
 
-
 class TestGreetProgrammer:
     '''function greet_programmer()'''
 
